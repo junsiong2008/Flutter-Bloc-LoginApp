@@ -1,0 +1,12 @@
+{
+    "title": "Login app",
+    "login": "Entra",
+    "register": "Registrati",
+    "welcome": "Benvenuto!",
+    "invalid_field": "Valore non valido",
+    "error_login": "Errore durante il login",
+    "error_register": "Errore durante la registrazione",
+    "username": "Nome utente",
+    "password": "Password",
+    "error_firebase": "Impossibile caricare Firebase"
+}
