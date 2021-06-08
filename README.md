@@ -2,14 +2,18 @@
   <a href="https://flutter.io/">
     <img src="https://diegolaballos.com/files/images/flutter-icon.jpg" alt="Logo" width=72 height=72>
   </a>
+</p>
 
-
+<p align="center">
   <a href="https://github.com/felangel/bloc"><img src="https://tinyurl.com/bloc-library" alt="Bloc Library"></a>
+<p>
 
-  <h3 align="center">Flutter Login App using Bloc</h3>
-    An example app that uses Flutter BLOC and Firebase Authentication for user authentication.
-    <br>
-  </p>
+<h3 align="center">Flutter Login App using Bloc</h3>
+
+<p align="center">An example app that uses Flutter BLOC and Firebase Authentication for user authentication.</p>
+
+<br>
+
 
 
 ## Description
